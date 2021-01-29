@@ -1,4 +1,4 @@
-# Nike_sneakers
+# Nike sneakers
 
 👟🌐 Here is presented my work with simple animation by CSS
 Here is include:
