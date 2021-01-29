@@ -6,5 +6,5 @@ Here is include:
   - Parallax Tilt Effect at the cards;
   - animation of backside by using @keyframe;
 
-  [logo]: img/shoes_red.png "Logo text"
+  For looking the work you should open file "main.html"
 
